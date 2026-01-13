@@ -3,6 +3,7 @@
 #profile-update-interval: 1
 #profile-title: Chrime VPN | Whitelist
 #announce: base64:0KHQv9Cw0YHQuNCx0L4g0LfQsCDQuNGB0L/QvtC70YzQt9C+0LLQsNC90LjQtSDinaTvuI8=
+vless://5725a60c-34a5-476d-9ae3-9e43d945ca8f@51.250.95.143:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dEHsPQQSnMJiHJKnJRbbLFKQmwIemUXQsQ1zIYbLZng&sid=f6&sni=www.mobile.yandex.ru#Самый быстрый 🚀
 vless://db912ae7-7c2e-4777-897c-c49201e48cb9@5.39.253.14:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=VRZ6ZwSsMA9K5f7aoJ9KvQgQ4xoSaF792mcNbeh-TQ4&sid=f12d61f4&sni=vk.com#0004 | 🇰🇿 Kazakhstan | 🏳️ VK | By @ovi_user
 vless://cc61ea7c-92f2-4c2d-b272-32cfe8fdf99f@95.174.92.156:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=c7e42004e5f024be&sni=sun6-21.userapi.com#0011 | 🇷🇺 Russia | 🏳️ VK | By @ovi_user
 vless://3ef34008-6ede-4356-b1d1-a9e9ab6ec279@51.250.28.151:4248?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ads.x5.ru#0013 | 🇷🇺 Russia | 🏳️ X5 | By @ovi_user
